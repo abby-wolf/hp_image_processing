@@ -18,6 +18,6 @@ The project also includes directories which allow the trained system to function
 @abby-wolf
 
 ## Helpful Links
-* [Jetson Nano Bringup] (https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit) -- note: the link to the 2GB Nano Flash image is incorrect, you can find the correct image [here] (https://developer.nvidia.com/embedded/downloads#?search=sd)
-* [Jetson Nano CSI Camera Interfacing] (https://developer.nvidia.com/embedded/learn/tutorials/first-picture-csi-usb-camera)
-* [MobileNet] (https://medium.com/@godeep48/an-overview-on-mobilenet-an-efficient-mobile-vision-cnn-f301141db94d)
+* [Jetson Nano Bringup](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit) -- note: the link to the 2GB Nano Flash image is incorrect, you can find the correct image [here](https://developer.nvidia.com/embedded/downloads#?search=sd)
+* [Jetson Nano CSI Camera Interfacing](https://developer.nvidia.com/embedded/learn/tutorials/first-picture-csi-usb-camera)
+* [MobileNet](https://medium.com/@godeep48/an-overview-on-mobilenet-an-efficient-mobile-vision-cnn-f301141db94d)
