@@ -15,7 +15,7 @@ The project includes working classification model, but also includes everything 
 The project also includes directories which allow the trained system to function on the Nvidia Jetson Nano development board. These files can be found in the jetson_compatibility directory. In order to run this code on the Jetson Nano, you must use a CSI camera. The code is not optimized for USB cameras. Some edits to the ```PATH``` variables may be needed in order to run this code. Be sure the paths in the code match to the paths you are using in the Nano's Linux file system.
 
 ## Collaborators
-* @IndiansFan25
+* @[IndiansFan25](https://github.com/IndiansFan25)
 
 ## Helpful Links
 * [Jetson Nano Bringup](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit) -- note: the link to the 2GB Nano Flash image is incorrect, you can find the correct image [here](https://developer.nvidia.com/embedded/downloads#?search=sd)
